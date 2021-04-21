@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Plantly</string>
+    <string name="welcome_msg">Welcome to Plantly, the Trefle powered plant app!</string>
+    <string name="plant_category_lbl">All Plants</string>
+    <string name="settings_lbl">Settings</string>
+    <string name="theme_lbl">Theme</string>
+    <string name="camera_lbl">Camera</string>
+    <string name="my_plants_lbl">My Plants</string>
+    <string name="take_picture_lbl">Take Picture</string>
+    <string name="default_theme_txt">Default</string>
+    <string name="daisy_theme_txt">Daisy</string>
+    <string name="sakura_theme_txt">Sakura</string>
+    <string name="cantaloupe_theme_txt">Cantaloupe</string>
+    <string name="search_lbl">Search</string>
+    <string name="genus_lbl">Genus:</string>
+    <string name="scientific_name_lbl">Latin:</string>
+    <string name="family_lbl">Family:</string>
+    <string name="image_placeholder_lbl">Image of selected plant. Placeholder if no image available</string>
+    <string name="add_collection_lbl">Add to my plants</string>
+    <string name="remove_collection_lbl">Remove from collection</string>
+    <string name="in_collection_lbl">In collection</string>
+    <string name="share_lbl">Share</string>
+</resources>
